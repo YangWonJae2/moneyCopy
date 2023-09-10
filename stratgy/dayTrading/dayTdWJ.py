@@ -75,55 +75,6 @@ class CpEvent:
             self.caller.checkRealtimeStg(pbData)
 
             # TODO
-            종목리스트
-            self.monList
-            에서[종목코드]
-            의
-            이전
-            DATA
-            조회
-            매집봉
-            FIND(매집봉
-            거래량
-            평균 * 3
-            AND
-            112
-            선
-            돌파 )
-            [분기]
-            매집봉
-            유무 ?
-            1.
-            매집봉
-            있음
-            self.미정.ADD - - 주의대상
-            LIST
-            IN
-        2.
-        매집봉
-        없음
-        self.미정.REMOVE - - 주의대상
-        LIST
-        OUT
-
-    [분기]
-    self.미정
-    Empty ?  -- self.미정의
-    변경사항이
-    있을
-    경우에만
-    넣는것도
-    고려
-    1.
-    Empty
-    Clear - 실시간
-    감시대상
-    관리
-
-
-2. else
-감시대상
-추가
 
 
 class CpPublish:
